@@ -24,7 +24,7 @@ How do we use your information?
 </p>
 <p class ="message">
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
-
+</p>
 * To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 * To improve our website in order to better serve you.
 * To allow us to better service you in responding to your customer service requests.
@@ -33,7 +33,6 @@ We may use the information we collect from you when you register, make a purchas
 * To ask for ratings and reviews of services or products
 * To follow up with them after correspondence (live chat, email or phone inquiries)
 
-</p>
 <p class ="message">
 How do we protect your information?
 </p>
