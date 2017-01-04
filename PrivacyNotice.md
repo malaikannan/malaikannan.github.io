@@ -137,9 +137,9 @@ and we will promptly remove you from ALL correspondence.
 
 </p>
 
-<p class ="message">
-### Contacting Us
 
+### Contacting Us
+<p class ="message">
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
 www.malaikannan.io
