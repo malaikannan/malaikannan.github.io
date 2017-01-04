@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hi this is Malaikannan Sankarasubbu. This is my personal page, opinions expressed here are mine not of my employers. You will find my ramblings about technology, politics, philosphy and sports. I am a programmer, been programming for about 12 years now. I use to love Object oriented programming, but have crossed over to the dark side of functional programming and scripting. I can rave about how good Python is as a Programming Language all day long. I love Artificial Intelligence, i am active in the Deep Learning community. If i didn't meet my wife in Scranton airport, i would have moved to Alaska and probably you would have seen me in the outdoor shows with me riding a snowmobile in dead of Alaskan winter. I have a young family, my handsome and intelligent son is 5 years old, i am married to my beautiful wife for 6 years now. 
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
