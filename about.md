@@ -10,3 +10,4 @@ title: About
 * [Github Repo](https://github.com/malaikannan)
 * [Linkedin Profile](https://www.linkedin.com/in/malaikannan)
 * [Twitter Handle](https://twitter.com/malai_san)
+* [Contact](malai128@gmail.com)
