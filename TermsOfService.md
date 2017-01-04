@@ -10,7 +10,7 @@ title: Terms of Service
 ### Last updated: October 21, 2016
 
 <p class = "message">
-Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://www.malaikannan.io website (the "Service") operated by WalnutAi ("us", "we", or "our").
+Please read these Terms of Service ("Terms", "Terms of Service") carefully before using the https://www.malaikannan.io website (the "Service") operated by malaikannan.io ("us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.
 
@@ -31,9 +31,9 @@ You agree not to disclose your password to any third party. You must notify us i
 ### Links To Other Web Sites
 
 <p class = "message">
-Our Service may contain links to third-party web sites or services that are not owned or controlled by WalnutAi.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by malaikannan.io.
 
-WalnutAi has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that WalnutAi shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+malaikannan.io has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that malaikannan.io shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
 
