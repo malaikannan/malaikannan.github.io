@@ -144,7 +144,8 @@ and we will promptly remove you from ALL correspondence.
 ### Contacting Us
 <p class ="message">
 If there are any questions regarding this privacy policy, you may contact us using the information below.
-<p>
+</p>
+
 * www.malaikannan.io
 * 38863 Bass common, Fremont, CA - 94536
 * malai128@gmail.com
@@ -152,4 +153,4 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 <p class ="message">
 Last Edited on 2017-01-03
-<p>
+</p>
