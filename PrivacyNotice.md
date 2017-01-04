@@ -145,13 +145,10 @@ and we will promptly remove you from ALL correspondence.
 <p class ="message">
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 <p>
-
-*www.malaikannan.io
-*38863 Bass Common
-*Fremont, CA 94536
-*USA
-*malai128@gmail.com
-*570-702-9807
+* www.malaikannan.io
+* 38863 Bass common, Fremont, CA - 94536
+* malai128@gmail.com
+* 570-702-9807
 
 <p class ="message">
 Last Edited on 2017-01-03
