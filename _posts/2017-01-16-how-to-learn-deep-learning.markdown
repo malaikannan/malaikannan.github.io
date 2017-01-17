@@ -10,7 +10,7 @@ I oscillated between different blogs and videos to become a deep learning practi
 
 Don't be shy if you haven't brushed your Math skills for a while. When you are programming for while bad habits creep in , it takes time to unlearn and learn new things. I had a tough time initially then started refreshing my Math again. I used Khan academy , i like how most of the sessions are only 10 minutes long. I followed below order
 
-1. Algebra -- Yes you have to refresh Algebra. Remember the equation for straight line y = mx + b. That is the best equation you learned in your life.
+1. Algebra -- Yes you have to refresh Algebra. Remember the equation for straight line y = mx + b. That is the best equation you learned in your life. Most of machine learning is about finding the value of "m" called weights and "b" called biases.
 2. Trigonometry
 3. Differential Calculus -- Machine Learning/Deep Learning is all about finding slope aka derivatives, hence do it thoroughly
 4. Partial Differential Equations
