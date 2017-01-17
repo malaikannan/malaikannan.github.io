@@ -82,4 +82,4 @@ I am personally big fan of Keras (wrapper over Tensorflow and Theano), since it 
 
 ## Follow Researchers on Twitter
 
-I used twitter recommendation engine (learning machine learning using machine learning) to keep myself updated with latest research papers. Check whom i am following , my twitter handle is @malai_san.
+I used twitter recommendation engine (learning machine learning using machine learning) to keep myself updated with latest research papers. Check whom i am following , on my [Twitter](https://twitter.com/malai_san)
