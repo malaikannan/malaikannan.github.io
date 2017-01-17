@@ -20,3 +20,6 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+#Google Services
+google_analytics: UA-4921442-2
