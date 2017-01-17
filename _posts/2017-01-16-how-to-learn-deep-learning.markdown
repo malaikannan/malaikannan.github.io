@@ -26,9 +26,7 @@ I took Prof Andrew Ng's Coursera [Machine Learning](https://www.coursera.org/lea
 
 ## Mining Massive Datasets
 
-This was one of the best courses i took, it helped me to understand Mathematical intuition behind lot of Machine Learning algorithms.
-
-[MiningMassiveDatasets](http://online.stanford.edu/Mining_Massive_Datasets_Fall_2014)
+This was one of the [best courses](http://online.stanford.edu/Mining_Massive_Datasets_Fall_2014) i took, it helped me to understand Mathematical intuition behind lot of Machine Learning algorithms.
 
 ## Deep Learning
 
