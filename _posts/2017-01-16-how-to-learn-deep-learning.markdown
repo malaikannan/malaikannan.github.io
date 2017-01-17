@@ -35,7 +35,7 @@ This course is Math heavy, but Prof Ali Ghodsi [lectures](https://www.youtube.co
 
 ## Convolution Neural Networks
 
-Convolution Neural networks is a class of Deep Learning that is predominantly used for computer vision. AndreJ Karpathy and Justin Johnson taught a great course [cs231n](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) in Stanford on CNN. It gives lot of practical tips on building Deep Learning models
+Convolution Neural networks is a class of Deep Learning that is predominantly used for computer vision. AndreJ Karpathy and Justin Johnson taught a great course [cs231n](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) in Stanford on CNN. It gives lot of practical tips on building Deep Learning models. 
 I wrote an intro level CNN tutorial for [Keras](https://github.com/malaikannan/Talks/blob/master/Demystifying_AI_Keras_Intro.ipynb).
 
 
