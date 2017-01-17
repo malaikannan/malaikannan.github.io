@@ -16,3 +16,5 @@ Indian Railways Status check Chatbot is integrated with Facebook Messenger. It c
 * Find Train between stations
 * Find Train fare
 * Find Train Seat availability
+
+Bot is will available for public use in another week.
