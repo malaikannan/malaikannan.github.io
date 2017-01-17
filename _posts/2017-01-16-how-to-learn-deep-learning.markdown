@@ -17,7 +17,7 @@ Don't be shy if you haven't brushed your Math skills for a while. When you are p
 4. Integral Calculus
 5. Probability and Statistics -- this is important for anything in Machine Learning.
 6. Linear Algebra -- Most of calculations are done using Matrix multiplication, dot products, transpose so learn this well.
-7. Linear Algebra Advanced -- Yes it is that important. I referred to Prof Gilbert Strang [lectures] (https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) from MIT.
+7. Linear Algebra Advanced -- Yes it is that important. I referred to Prof Gilbert Strang [lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) from MIT.
 
 ## Intro into Machine Learning
 
@@ -41,7 +41,7 @@ I wrote an intro level CNN tutorial for [Keras](https://github.com/malaikannan/T
 
 ## Natural Language processing
 
-Richard Socher's class on Natural Language processing is must if you want to work on Unstructured text. [CS224d]((https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)) is heavy on Recurrent Neural Networks. Recently [Convolution Neural Networks](https://www.youtube.com/watch?v=nzSPZyjGlWI&t=517s) are being used more for NLP.
+Richard Socher's class on Natural Language processing is must if you want to work on Unstructured text. [CS224d](https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG) is heavy on Recurrent Neural Networks. Recently [Convolution Neural Networks](https://www.youtube.com/watch?v=nzSPZyjGlWI&t=517s) are being used more for NLP.
 
 
 ## Learn Python
