@@ -35,18 +35,18 @@ This course is Math heavy, but Prof Ali Ghodsi [lectures](https://www.youtube.co
 
 ## Convolution Neural Networks
 
-Convolution Neural networks is a class of Deep Learning that is predominantly used for computer vision. AndreJ Karpathy and Justin Johnson taught a great course [cs231n](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) in Stanford on CNN. It gives lot of practical tips on building Deep Learning models. 
+Convolution Neural networks is a class of Deep Learning that is predominantly used for computer vision. AndreJ Karpathy and Justin Johnson taught a great course [cs231n](https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLlJy-eBtNFt6EuMxFYRiNRS07MCWN5UIA) in Stanford on CNN. It gives lot of practical tips on building Deep Learning models.
 I wrote an intro level CNN tutorial for [Keras](https://github.com/malaikannan/Talks/blob/master/Demystifying_AI_Keras_Intro.ipynb).
 
 
 ## Natural Language processing
 
-Richard Socher's class on Natural Language processing is must if you want to work on Unstructured text. [CS224d]((https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)) is heavy in Recurrent Neural Networks. Recently [Convolution Neural Networks](https://www.youtube.com/watch?v=nzSPZyjGlWI&t=517s) are being used more for NLP.
+Richard Socher's class on Natural Language processing is must if you want to work on Unstructured text. [CS224d]((https://www.youtube.com/watch?v=Qy0oEkCZkBI&list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)) is heavy on Recurrent Neural Networks. Recently [Convolution Neural Networks](https://www.youtube.com/watch?v=nzSPZyjGlWI&t=517s) are being used more for NLP.
 
 
 ## Learn Python
 
-Python is becoming a de-facto language for scientific and numerical computation. Most Deep Learning libraries have a python front end. If you are new to python then use [Byte of Python](https://python.swaroopch.com/) book to learn
+Python is becoming a de-facto language for scientific and numerical computation. Most Deep Learning libraries have a python front end. If you are new to python then use [Byte of Python](https://python.swaroopch.com/) book to learn. There are lot of good youtube tutorials too.
 
 
 ## GPU's
