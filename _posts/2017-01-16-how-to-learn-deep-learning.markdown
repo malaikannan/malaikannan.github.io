@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017-01-15-How to Learn Deep Learning?"
+title: "How to Learn Deep Learning?"
 date: "2017-01-16 23:42:51 -0800"
 ---
 
