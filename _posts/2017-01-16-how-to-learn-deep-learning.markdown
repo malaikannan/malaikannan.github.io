@@ -76,6 +76,8 @@ There are quite a few options when it comes to Deep Learning frameworks
 
 I am personally big fan of Keras (wrapper over Tensorflow and Theano), since it abstracts lot of complexity of building a Deep Learning model, i can build a model and test whether it works or not very fast. There are tons of online tutorials on Tensorflow and Theano.
 
+Gokul Krishnan wrote a really good blog on [Anatomy of Deep Learning Frameworks](https://medium.com/@gokul_uf/the-anatomy-of-deep-learning-frameworks-46e2a7af5e47#.qp4zrn6s6)
+
 ## Kaggle
 
 [Kaggle](www.kaggle.com) is a data science competition forum, lot of researchers compete there and share their approach they used for solving that problem. Compete actively to learn and improve.
