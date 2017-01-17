@@ -9,7 +9,7 @@ title:               'Malaikannan'
 tagline:             'The Deep Learning way of life'
 description:         'To Deep Learn or Not to Deep Learn.'
 url:                 http://malaikannan.io
-baseurl:             ''
+baseurl:             'http://malaikannan.io'
 paginate:            5
 
 # About/contact
