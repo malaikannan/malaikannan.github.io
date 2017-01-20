@@ -10,13 +10,13 @@ I oscillated between different blogs and videos to become a deep learning practi
 
 Don't be shy if you haven't brushed your Math skills for a while. When you are programming for while bad habits creep in , it takes time to unlearn and learn new things. I had a tough time initially then started refreshing my Math again. I used Khan academy , i like how most of the sessions are only 10 minutes long. I followed below order
 
-1. Algebra -- Yes you have to refresh Algebra. Remember the equation for straight line y = mx + b. That is the best equation you learned in your life. Most of machine learning is about finding the value of "m" called weights and "b" called biases.
-2. Trigonometry
-3. Differential Calculus -- Machine Learning/Deep Learning is all about finding slope aka derivatives, hence do it thoroughly
-4. Partial Differential Equations
-4. Integral Calculus
-5. Probability and Statistics -- this is important for anything in Machine Learning.
-6. Linear Algebra -- Most of calculations are done using Matrix multiplication, dot products, transpose so learn this well.
+1. [Algebra](https://www.khanacademy.org/math/algebra-home) -- Yes you have to refresh Algebra. Remember the equation for straight line y = mx + b. That is the best equation you learned in your life. Most of machine learning is about finding the value of "m" called weights and "b" called biases.
+2. [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+3. [Differential Calculus](https://www.khanacademy.org/mission/differential-calculus) -- Machine Learning/Deep Learning is all about finding slope aka derivatives, hence do it thoroughly
+4. [Partial Differential Equations](https://www.khanacademy.org/math/differential-equations)
+4. [Integral Calculus](https://www.khanacademy.org/mission/integral-calculus)
+5. [Probability and Statistics](https://www.khanacademy.org/math/statistics-probability) -- this is important for anything in Machine Learning.
+6. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra) -- Most of calculations are done using Matrix multiplication, dot products, transpose so learn this well.
 7. Linear Algebra Advanced -- Yes it is that important. I referred to Prof Gilbert Strang [lectures](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) from MIT.
 
 ## Intro into Machine Learning
