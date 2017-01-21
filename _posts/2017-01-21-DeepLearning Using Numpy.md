@@ -17,3 +17,7 @@ Deep learning refers to artificial neural networks that are composed of many lay
 Machine Learning deals with lot of Linear Algebra operations like dot product, transpose, reshape etc. If you are not familiar with it, I would suggest taking a Linear Algebra refresher course in khan academy.
 
 {% gist 1b09fb8c64f25ca8d57df325d3aa28d6 %}
+
+Deep Learning needs an activation function to squish real numbers to probability values between 0 and 1 , there are different activation functions like sigmoid, Tanh, RELU etc. For this toy example i have used sigmoid activation function.
+
+![Sigmoid](assets/2017-01-21-DeepLearning Using Numpy/sigmoid.gif)
