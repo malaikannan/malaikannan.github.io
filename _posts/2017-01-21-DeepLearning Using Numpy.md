@@ -12,9 +12,9 @@ DeepLearning has been getting lot of good press for solving lot of complex probl
 
 ![Neural Network with 1 hidden layer](assets/2017-01-21-DeepLearning Using Numpy/first-project-idea-2.png)
 
-Deep learning refers to artificial neural networks that are composed of many layers like the one shown below. Deep Learning has many flavor's like Convolution Neural Networks, Recurrent Neural Networks, Reinforcement Learning, Feed Forward Neural Network etc. This blog is going to take the simplest of them Feed Forward Neural network as an example to explain.
+Deep learning refers to artificial neural networks that are composed of many layers like the one shown above. Deep Learning has many flavor's like Convolution Neural Networks, Recurrent Neural Networks, Reinforcement Learning, Feed Forward Neural Network etc. This blog is going to take the simplest of them Feed Forward Neural network as an example to explain.
 
-Machine Learning deals with lot of Linear Algebra operations like dot product, transpose, reshape etc. If you are not familiar with it, I would suggest taking a Linear Algebra refresher course in khan academy.
+Machine Learning deals with lot of Linear Algebra operations like dot product, transpose, reshape etc. If you are not familiar with it, I would suggest refer to my previous blog post [All about Math](http://malaikannan.io//2017/01/17/how-to-learn-deep-learning/) section.
 
 {% gist 1b09fb8c64f25ca8d57df325d3aa28d6 %}
 
