@@ -11,3 +11,9 @@ DeepLearning has been getting lot of good press for the past 1 year. I am a CTO 
 3. Why Keras not TensorFlow/Theano?
 
 ![Neural Network with 1 hidden layer](assets/2017-01-21-DeepLearning Using Numpy/first-project-idea-2.png)
+
+Deep learning refers to artificial neural networks that are composed of many layers like the one shown below. Deep Learning has many flavor's like Convolution Neural Networks, Recurrent Neural Networks, Reinforcement Learning, Feed Forward Neural Network etc. This blog is going to take the simplest of them Feed Forward Neural network as an example to explain.
+
+Machine Learning deals with lot of Linear Algebra operations like dot product, transpose, reshape etc. If you are not familiar with it, I would suggest taking a Linear Algebra refresher course in khan academy.
+
+{% gist 1b09fb8c64f25ca8d57df325d3aa28d6 %}
