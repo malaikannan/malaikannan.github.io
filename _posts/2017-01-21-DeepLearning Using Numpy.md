@@ -10,7 +10,7 @@ DeepLearning has been getting lot of good press for solving lot of complex probl
 2. Why TensorFlow/Theano not Numpy?
 3. Why Keras not TensorFlow/Theano?
 
-![Neural Network with 1 hidden layer](assets/2017-01-21-DeepLearning Using Numpy/first-project-idea-2.png)
+![Neural Network with 1 hidden layer](assets/2017-01-21-DeepLearning Using Numpy/first-project-idea-1.png)
 
 Deep learning refers to artificial neural networks that are composed of many layers like the one shown above. Deep Learning has many flavor's like Convolution Neural Networks, Recurrent Neural Networks, Reinforcement Learning, Feed Forward Neural Network etc. This blog is going to take the simplest of them Feed Forward Neural network as an example to explain.
 
