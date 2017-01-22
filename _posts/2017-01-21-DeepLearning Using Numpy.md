@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deep Learning using Numpy"
-date: "2017-01-16 23:42:51 -0800"
+date: "2017-01-21 23:42:51 -0800"
 ---
 
 DeepLearning is a verstaile tool to solve problems that cannot be solved using traditional programming approach. I am a CTO at Datalog.ai where we solve lot of cool problems using Deep Learning. ML Researchers and Engineers use lot of Deep Learning packages like Theano, Tensorflow, Torch, Keras etc. Packages are really good but when you want to get an understanding on how Deep Learning works, it is better to go back to basics and understand how it is done. This blog is at an attempt at that, it is going to be a 3 part of series with topics being
