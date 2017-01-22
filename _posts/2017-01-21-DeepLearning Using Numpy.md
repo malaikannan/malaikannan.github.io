@@ -57,3 +57,5 @@ See below on how loss is decreasing for each iteration.
 With just 50 iterations we are very close to actual value
 
 ![Output](assets/2017-01-21-DeepLearning Using Numpy/output.png)
+
+Siraj Raval has a really good youtube video on [Intro to Deep Learning](https://www.youtube.com/watch?v=h3l4qz76JhQ) check it out too.
