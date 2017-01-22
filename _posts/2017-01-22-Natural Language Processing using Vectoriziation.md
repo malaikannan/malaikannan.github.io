@@ -149,3 +149,4 @@ In complicated use-cases models can understand translations from one language to
 [Blog Post by Chris Moody](multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 [Gensim Python Library](https://radimrehurek.com/gensim/)
 [Prof Ali Ghodsi Word2vec talk](https://www.youtube.com/watch?v=TsEGsdVJjuA)
+[Sagar vinodababu Word2vec Reddit code](https://github.com/sgrvinod/Word2Vec-on-Reddit-s-Politics-Subreddit-Jan-Apr-2016-)
