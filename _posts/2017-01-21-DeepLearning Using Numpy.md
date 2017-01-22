@@ -30,10 +30,26 @@ For this example on Numpy Deep Learning Code, I am going to use a synthetic data
 
 {% gist 06d2f0ff6d2299068c6d186e0ed7c1f9 %}
 
-Randomly initialize weights for 2 synapses. Synapses 0 will be of shape 3x4, Synapses Layer 1 will be of shape 4x1
+Randomly initialize weights for 2 synapses. Synapses 0 will be of shape 3x4, Synapses 1 will be of shape 4x1
 
 {% gist 17458bf0ae8fe5aa92f8283d7d1ecb1e %}
 
 With Gradient descent you have to run the process for n number of iterations, in ML lingo it is called epoch (since it will take ages to complete). In our case we are going to run it for 50 iterations. Since this is a 1 hidden Layer network, we do a dot product between input l0 and synapses_0  and then squish it using sigmoid function. Pass output of l1 as input to hidden layer and do dot product between l1 and synapses_1 weights and then squish it using sigmoid function.
 
 {% gist 20c5fcb11f0d70215d48b1296cc79ccd %}
+
+Now we are off to calculate what is the error for our prediction for l2 layer. Then use derivative to find out how much we should update our Synapses 1.
+
+{% gist b5aecb4523e079dfe37fe5cd841ffe9e %}
+
+Same step should be done for l1 layer, but error should be calculated based on how much we are off on l2.
+
+{% gist a1016a9c97a9daab6188e103f5957584 %}
+
+Update weights for synapses_0 and synapses_1 based on calculated l1_delta and l2_delta respectively.
+
+{% gist 144a98a187e04dbb0c0e6656283779b9 %}
+
+See below on how loss is decreasing for each iteration.
+
+{% gist 95eee628bb7e06bdd288a5816557fa8a %}
