@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "How to Learn Deep Learning?"
+title: "Deep Learning using Numpy"
 date: "2017-01-16 23:42:51 -0800"
 ---
 
-DeepLearning has been getting lot of good press for solving lot of complex problems and creating an impact. I am a CTO at Datalog.ai where we solve lot of cool problems using Deep Learning. ML Researchers and Engineers use lot of Deep Learning packages like Theano, Tensorflow, Torch, Keras etc. Packages are really good but when you want to get an understanding on how Deep Learning works, it is better to go back to basics and understand how it is done. This blog is at an attempt at that, it is going to be a 3 part of series with topics being
+DeepLearning is a verstaile tool to solve problems that cannot be solved using traditional programming approach. I am a CTO at Datalog.ai where we solve lot of cool problems using Deep Learning. ML Researchers and Engineers use lot of Deep Learning packages like Theano, Tensorflow, Torch, Keras etc. Packages are really good but when you want to get an understanding on how Deep Learning works, it is better to go back to basics and understand how it is done. This blog is at an attempt at that, it is going to be a 3 part of series with topics being
 
 1. DeepLearning using Numpy
 2. Why TensorFlow/Theano not Numpy?
@@ -53,3 +53,7 @@ Update weights for synapses_0 and synapses_1 based on calculated l1_delta and l2
 See below on how loss is decreasing for each iteration.
 
 {% gist 95eee628bb7e06bdd288a5816557fa8a %}
+
+With just 50 iterations we are very close to actual value
+
+![Output](assets/2017-01-21-DeepLearning Using Numpy/output.png)
