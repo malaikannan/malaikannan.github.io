@@ -22,7 +22,9 @@ Deep Learning needs an activation function to squish real numbers to probability
 
 ![Sigmoid](assets/2017-01-21-DeepLearning Using Numpy/sigmoid.gif)
 
-We are going to use Gradient Descent to find optimal parameters to solve for Y. Gradient descent uses the derivative of the sum of errors to update the systems parameters a little bit in such a way that the error decreases as much as possible.After every update the system learns to predict with a lower error. Let it run many iterations and it will converge at some optima(local). Sigmoid function takes a parameter to calculate Derivative. Don't worry if you don't understand this explanation, it is very intuitive if you can follow the code along. If you are looking for more explanation refer to this [video](https://www.youtube.com/watch?v=eikJboPQDT0) by Prof Andrew Ng.
+We are going to use Gradient Descent to find optimal parameters to solve for Y. Gradient descent uses the derivative of the sum of errors to update the systems parameters a little bit in such a way that the error decreases as much as possible.After every update the system learns to predict with a lower error. Let it run many iterations and it will converge at some optima(local). Sigmoid function takes a parameter to calculate Derivative. Don't worry if you don't understand this explanation, it is very intuitive if you can follow the code along. If you are looking for more explanation refer to the below video by Prof Andrew Ng.
+
+{% youtube eikJboPQDT0 %}
 
 For this example on Numpy Deep Learning Code, I am going to use a synthetic dataset. Output is the target we are going to predict.
 
