@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Natural Language Processing using Word2Vec"
-date: "2017-01-22 23:42:51 -0800"
+date: "2017-01-21 23:42:51 -0800"
 ---
 
 Natural Language Processing is a complicated area. Computers are really good at crunching numbers but not so much with text. We have to specifically instruct them on how to handle text. For Text analytics to be carried out we have to represent text in a form the computers can understand i.e. in the form of numbers.
@@ -148,3 +148,4 @@ In complicated use-cases models can understand translations from one language to
 [Word2vec talk by Radim Rehurek](https://www.youtube.com/watch?v=wTp3P2UnTfQ)
 [Blog Post by Chris Moody](multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 [Gensim Python Library](https://radimrehurek.com/gensim/)
+[Prof Ali Ghodsi Word2vec talk](https://www.youtube.com/watch?v=TsEGsdVJjuA)
