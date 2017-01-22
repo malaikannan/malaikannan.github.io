@@ -37,9 +37,17 @@ This approach has lot of disadvantages, few of those are listed below
 
 What we are telling the computer using this approach is city, lovely, metropolis are all equal. Even though city and metropolis are equivalent and lovely is something very different.
 
+## Neural Language models
+
+Prof Yoshua Bengio started this work in 2008. A language model is an algorithm for capturing the salient statistical characteristics of the distribution of sequences of words in a natural language.
+
+A neural language model learn distributed representations on words to reduce the impact of the curse of dimensionality. Curse of dimensionality is when number of input variable grows the number of required examples to train a model grows exponentially.
+
+You can read more about this work in this [link](http://www.scholarpedia.org/article/Neural_net_language_models)
+
 ## Word2vec -- Word to Vector
 
-Word2Vec is one of the influential papers in Natural Language Processing. It has nearly 3000 citations. Word2Vec was created by google, with main author being Tomas Mikolov. You can read the original paper [here](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf).
+Word2Vec is one of the influential papers in Natural Language Processing. It has nearly 3000 citations. Word2Vec improves on earlier Prof Yoshua Bengios work on Neural Language Models. Word2Vec was created by google, with main author being Tomas Mikolov. You can read the original paper [here](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf).
 
 Word2vec is an answer to all the disadvantages listed in the previous section.  
 
