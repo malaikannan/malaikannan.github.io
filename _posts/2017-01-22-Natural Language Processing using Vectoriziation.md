@@ -47,7 +47,7 @@ You can read more about this work in this [link](http://www.scholarpedia.org/art
 
 ## Word2vec -- Word to Vector
 
-Word2Vec is one of the influential papers in Natural Language Processing. It has nearly 3000 citations. Word2Vec improves on earlier Prof Yoshua Bengios work on Neural Language Models. Word2Vec was created by google, with main author being Tomas Mikolov. You can read the original paper [here](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf).
+Word2Vec is one of the influential papers in Natural Language Processing. It has nearly 3000 citations. Word2Vec improves on Prof Yoshua Bengio's earlier work on Neural Language Models. Word2Vec was created by google, with main author being Tomas Mikolov. You can read the original paper [here](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf).
 
 Word2vec is an answer to all the disadvantages listed in the previous section.  
 
@@ -146,15 +146,15 @@ Word2vec depicting relationships between countries and capitals
 
 In complicated use-cases models can understand translations from one language to another.
 
-![MachineTranslation](/assets/2017-01-22-Natural Language Processing using Word2Vec/translation.png)
+![MachineTranslation](/assets/2017-01-22-Natural Language Processing using Word2Vec/Translation.png)
 
 
 ## Further Reading
 
-[Doc2VecPaper](arxiv.org/pdf/1405.4053v2.pdf)
-[Google Word2vec Code](https://code.google.com/archive/p/word2vec/)
-[Word2vec talk by Radim Rehurek](https://www.youtube.com/watch?v=wTp3P2UnTfQ)
-[Blog Post by Chris Moody](multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
-[Gensim Python Library](https://radimrehurek.com/gensim/)
-[Prof Ali Ghodsi Word2vec talk](https://www.youtube.com/watch?v=TsEGsdVJjuA)
-[Sagar vinodababu Word2vec Reddit code](https://github.com/sgrvinod/Word2Vec-on-Reddit-s-Politics-Subreddit-Jan-Apr-2016-)
+- [Doc2VecPaper](arxiv.org/pdf/1405.4053v2.pdf)
+- [Google Word2vec Code](https://code.google.com/archive/p/word2vec/)
+- [Word2vec talk by Radim Rehurek](https://www.youtube.com/watch?v=wTp3P2UnTfQ)
+- [Blog Post by Chris Moody](multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
+- [Gensim Python Library](https://radimrehurek.com/gensim/)
+- [Prof Ali Ghodsi Word2vec talk](https://www.youtube.com/watch?v=TsEGsdVJjuA)
+- [Sagar vinodababu Word2vec Reddit code](https://github.com/sgrvinod/Word2Vec-on-Reddit-s-Politics-Subreddit-Jan-Apr-2016-)
