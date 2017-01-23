@@ -125,9 +125,9 @@ Similarly you can draw other analogies like
 
 Math for Analogies is beautiful, it can be expressed in simple vector arithmetic.
 
-- SanFrancisco - LosAngeles = beautiful - <unknown>
-- <unknown> = beautiful + LosAngeles - SanFrancisco
-- <unknown> = (-12.5,5) which is close to lovely
+- SanFrancisco - LosAngeles = beautiful - [unknown]
+- [unknown] = beautiful + LosAngeles - SanFrancisco
+- [unknown] = (-12.5,5) which is close to lovely
 
 
 ![vector](/assets/2017-01-22-Natural Language Processing using Word2Vec/Vector_Arithmetic.png)
