@@ -80,7 +80,7 @@ Gokul Krishnan wrote a really good blog on [Anatomy of Deep Learning Frameworks]
 
 ## Kaggle
 
-[Kaggle](www.kaggle.com) is a data science competition forum, lot of researchers compete there and share their approach they used for solving that problem. Compete actively to learn and improve.
+[Kaggle](https://www.kaggle.com/) is a data science competition forum, lot of researchers compete there and share their approach they used for solving that problem. Compete actively to learn and improve.
 
 ## Follow Researchers on Twitter
 
