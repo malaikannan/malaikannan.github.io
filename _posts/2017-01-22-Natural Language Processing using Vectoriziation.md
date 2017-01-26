@@ -67,14 +67,6 @@ A vector can be represented as by plotting on a graph. Lets take a 2D example
 
 We can only 3 dimensions, anything more than that you can just say it not visualize.
 
-### Auto-Encoder
-
-Auto-Encoder is a un-supervised neural network trained to generate representations to copy input to output. Neural network can be viewed as two parts Encoder h = f(x) and Decoder r = g(h). Auto Encoder is not allowed to copy all the data but only input that has some resemblance to training data. Auto Encoder model is forced to prioritize which aspects of input data to be copied, due to which it learns very useful representation about data. Refer to this [chapter](http://www.deeplearningbook.org/contents/autoencoders.html) in Deep Learning Book by Ian GoodFellow, Yoshua Bengio and Aaron CourVille for more explanation.
-
-![Auto-Encoder](/assets/2017-01-22-Natural Language Processing using Word2Vec/auto-encoder.png)
-
-Word2vec is similar to an autoencoder, encoding each word in a vector, but rather than training against the input words through reconstruction, word2vec trains words against other words that neighbor them in the input corpus.
-
 ## How Word2Vec works
 
 For a input text it looks at each word and the context of words around it. It trains on the text, and recognizes the order of each word, and the structure of the sentences. At the end of training each word is represented by a vector of N (mostly in 100 to 300 range) dimension.
@@ -148,6 +140,9 @@ In complicated use-cases models can understand translations from one language to
 
 ![MachineTranslation](/assets/2017-01-22-Natural Language Processing using Word2Vec/Translation.png)
 
+## Contributions
+
+Thanks to [Arthur Chan](https://www.linkedin.com/in/arthchan2003) for suggesting changes to the blog. 
 
 ## Further Reading
 
