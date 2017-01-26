@@ -73,7 +73,7 @@ Auto-Encoder is a un-supervised neural network trained to generate representatio
 
 ![Auto-Encoder](/assets/2017-01-22-Natural Language Processing using Word2Vec/auto-encoder.png)
 
-Word2Vec is based on Auto-Encoder. It assigns each word in a text to a vector of fixed dimension.
+Word2vec is similar to an autoencoder, encoding each word in a vector, but rather than training against the input words through reconstruction, word2vec trains words against other words that neighbor them in the input corpus.
 
 ## How Word2Vec works
 
