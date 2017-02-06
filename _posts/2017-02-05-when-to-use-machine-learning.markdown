@@ -16,18 +16,18 @@ Being active is my passion. Everyday, I decide whether to go outside for a run o
 
 1. Is it raining outside?
 
-  - Yes --> Don't run
-  - No --> I think I can run.
+    - Yes --> Don't run
+    - No --> I think I can run.
 
 2. Time of the day?
 
-  - Is it 10 P.M to 5 A.M --> Dont' run. Too dark outside.
-  - 5 A.M to 7 A.M --> I think I can run.
-  - 8 A.M to 9 A.M --> Am I working from home? I think I can run.
-  - 9-5 P.M --> Don't run. Office work.
-  - 5 P.M -7 P.M --> I think I can run.
-  - 7 P.M - 9 P.M --> if it is not too dark then I can run.
-  - 9 P.M - 10 P.M --> After dinner, I don't run.
+    - Is it 10 P.M to 5 A.M --> Dont' run. Too dark outside.
+    - 5 A.M to 7 A.M --> I think I can run.
+    - 8 A.M to 9 A.M --> Am I working from home? I think I can run.
+    - 9-5 P.M --> Don't run. Office work.
+    - 5 P.M -7 P.M --> I think I can run.
+    - 7 P.M - 9 P.M --> if it is not too dark then I can run.
+    - 9 P.M - 10 P.M --> After dinner, I don't run.
 
 3. Do I have to drop my son in school?
 
