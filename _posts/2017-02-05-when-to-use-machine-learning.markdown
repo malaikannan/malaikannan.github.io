@@ -16,30 +16,30 @@ Being active is my passion. Everyday, I decide whether to go outside for a run o
 
 1. Is it raining outside?
 
-  1. Yes --> Don't run
-  2. No --> I think I can run.
+  - Yes --> Don't run
+  - No --> I think I can run.
 
 2. Time of the day?
 
-  1. Is it 10 P.M to 5 A.M --> Dont' run. Too dark outside.
-  2. 5 A.M to 7 A.M --> I think I can run.
-  3. 8 A.M to 9 A.M --> Am I working from home? I think I can run.
-  4. 9-5 P.M --> Don't run. Office work.
-  5. 5 P.M -7 P.M --> I think I can run.
-  6. 7 P.M - 9 P.M --> if it is not too dark then I can run.
-  7. 9 P.M - 10 P.M --> After dinner, I don't run.
+  - Is it 10 P.M to 5 A.M --> Dont' run. Too dark outside.
+  - 5 A.M to 7 A.M --> I think I can run.
+  - 8 A.M to 9 A.M --> Am I working from home? I think I can run.
+  - 9-5 P.M --> Don't run. Office work.
+  - 5 P.M -7 P.M --> I think I can run.
+  - 7 P.M - 9 P.M --> if it is not too dark then I can run.
+  - 9 P.M - 10 P.M --> After dinner, I don't run.
 
 3. Do I have to drop my son in school?
 
-  1. Is it Morning school drop time ( 8.30 A.M to 9 A.M) --> Dont run
-  2. Is it evening school pickup time (4.45 P.M to 5.15 P.M) --> Dont run.
-  3. Other times. I think I can run.
+  - Is it Morning school drop time ( 8.30 A.M to 9 A.M) --> Dont run
+  - Is it evening school pickup time (4.45 P.M to 5.15 P.M) --> Dont run.
+  - Other times. I think I can run.
 
 4. What is the temperature outside?
 
-  1. 50-80F --> I think I can run.
-  2. 80F-110F --> I don't think I can run. Too hot.
-  3. 0F - 50F --> I am not running.
+  - 50-80F --> I think I can run.
+  - 80F-110F --> I don't think I can run. Too hot.
+  - 0F - 50F --> I am not running.
 
 If I do this deterministically, then I will end up with lot of "If" conditions for all the permutations of combinations that are possible .  With just 4 attributes, it is getting complex. Imagine having hundreds of attributes influencing whether I want to run or not. This is where machine learning will save my day. (Did I mention that I am a lazy programmer? Good code is better than more code.).  
 
