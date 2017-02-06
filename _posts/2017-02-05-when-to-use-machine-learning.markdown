@@ -31,15 +31,15 @@ Being active is my passion. Everyday, I decide whether to go outside for a run o
 
 3. Do I have to drop my son in school?
 
-  - Is it Morning school drop time ( 8.30 A.M to 9 A.M) --> Dont run
-  - Is it evening school pickup time (4.45 P.M to 5.15 P.M) --> Dont run.
-  - Other times. I think I can run.
+    - Is it Morning school drop time ( 8.30 A.M to 9 A.M) --> Dont run
+    - Is it evening school pickup time (4.45 P.M to 5.15 P.M) --> Dont run.
+    - Other times. I think I can run.
 
 4. What is the temperature outside?
 
-  - 50-80F --> I think I can run.
-  - 80F-110F --> I don't think I can run. Too hot.
-  - 0F - 50F --> I am not running.
+    - 50-80F --> I think I can run.
+    - 80F-110F --> I don't think I can run. Too hot.
+    - 0F - 50F --> I am not running.
 
 If I do this deterministically, then I will end up with lot of "If" conditions for all the permutations of combinations that are possible .  With just 4 attributes, it is getting complex. Imagine having hundreds of attributes influencing whether I want to run or not. This is where machine learning will save my day. (Did I mention that I am a lazy programmer? Good code is better than more code.).  
 
