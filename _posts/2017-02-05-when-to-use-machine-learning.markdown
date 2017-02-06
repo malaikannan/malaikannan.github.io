@@ -10,7 +10,7 @@ If you are trying to pick an action based on a problem you are facing, how shoul
 
 As a software programmer, when I want solve a problem, I try to figure out a way to automate it. Being a machine learning engineer, I begin comparing to the oldest problem solving method: deterministic programming.
 
-![Malai Running](/images/2017/02/malai_running.jpg)
+![Malai Running](/assets/2017-02-04-When to Use Machine Learning?/2malai_running.jpg)
 
 Being active is my passion. Everyday, I decide whether to go outside for a run outdoors. Situations that influence my decision are:
 
