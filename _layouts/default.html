@@ -4,6 +4,7 @@
   {% include head.html %}
 
   <body class="theme-base-08">
+    <script id="dsq-count-scr" src="//EXAMPLE.disqus.com/count.js" async></script>
 
     {% include sidebar.html %}
 
@@ -23,7 +24,7 @@
         {{ content }}
       </div>
     </div>
-
+    {% include disqus.html %}
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
