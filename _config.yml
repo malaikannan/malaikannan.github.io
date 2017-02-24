@@ -11,6 +11,7 @@ description:         'To Deep Learn or Not to Deep Learn.'
 url:                 http://malaikannan.io
 baseurl:             'http://malaikannan.io'
 paginate:            5
+disqus:  malaikannan 
 
 # About/contact
 author:
