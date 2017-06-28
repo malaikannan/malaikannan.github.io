@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-
+encoding: UTF-8
 
 # Setup
 title:               'Malaikannan'
@@ -11,7 +11,7 @@ description:         'To Deep Learn or Not to Deep Learn.'
 url:                 http://malaikannan.io
 baseurl:             'http://malaikannan.io'
 paginate:            5
-disqus:  malaikannan 
+disqus:  malaikannan
 
 # About/contact
 author:
