@@ -11,12 +11,14 @@ f(x) = Ax + b
 Where A is a matrix, x and b (bias term) are vectors. Deep learning learns parameters x and b.
 
 In Deep Learning you can stack multiple affine maps on top of one another. for e.g
-f(x) = Ax + b and g(x) = Cx + d
+- f(x) = Ax + b
+- g(x) = Cx + d
 
 If we stack one affine map over the other then
 
-f(g(x)) = A (Cx +d) + b
-f(g(x)) = ACx + Ad + b
+- f(g(x)) = A (Cx +d) + b
+- f(g(x)) = ACx + Ad + b
+
 AC is a matrix , Ad and b are vectors.
 
 Deep learning requires lot of affine maps stacked on top of the other. But Composing one affine map over the other gives another affine map so stacking is not going to give the desired effect and it gives nothing more than what a single affine map is going to give.
