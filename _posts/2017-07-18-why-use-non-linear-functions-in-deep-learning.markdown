@@ -29,4 +29,6 @@ How do we solve this ? By introducing non-linearity between affine maps/layers. 
 
 When there are lot of non-linear functions why use only the above ones ? Because the derivatives of these functions are easier to compute which is how Deep Learning algorithms learn. Non-Linear functions are called Activation functions in Deep Learning world.
 
+Thanks to Dr Jacob Minz suggestion to add explanation about [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem). Universal Approximation Theorem says that when you introduce simple non-linearity between affine layers, you'll be able to approximate any function to any arbitrary degree (as close to that function as you want). If there is a pattern in the data, the neural network will "learn" it given enough of computation and data.
+
 You can read more about the Activation functions in [wiki](https://en.wikipedia.org/wiki/Activation_function). Who writes better about Neural Networks than Chris Olah. Refer to his [blog](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) for further reading.
