@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Why use Non-Linear Functions in Deep Learning ?"
+title: "Why use Activation Functions in Deep Learning ?"
 date: "2017-07-18 20:31"
 ---
 
