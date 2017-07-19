@@ -8,9 +8,7 @@ Machine Learning or Deep Learning is all about using Affine Maps. Affine map is 
 
 f(x) = Ax + b
 
-Where A is a matrix, x and b (bias term) are vectors. Deep learning learns parameters x and b.
-
-In Deep Learning you can stack multiple affine maps on top of one another. for e.g
+Where A is a matrix, x and b (bias term) are vectors. Deep learning learns parameters x and b. In Deep Learning you can stack multiple affine maps on top of one another. for e.g
 - f(x) = Ax + b
 - g(x) = Cx + d
 
