@@ -8,8 +8,8 @@ encoding: UTF-8
 title:               'Malaikannan'
 tagline:             'The Deep Learning way of life'
 description:         'To Deep Learn or Not to Deep Learn.'
-url:                 http://malaikannan.io
-baseurl:             'http://malaikannan.io'
+url:                 http://malaikannan.github.io
+baseurl:             'http://malaikannan.github.io'
 paginate:            5
 disqus:  malaikannan
 
