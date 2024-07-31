@@ -1,5 +1,3 @@
-### Understanding Embeddings: The Foundation of Modern Natural Language Processing
-
 Computers are meant to crunch numbers; it goes back to the original design of these machines. Representing text as numbers is the holy grail of Natural Language Processing (NLP), and over the years, various techniques have been developed to achieve this. Early methods like BiGrams and TriGrams paved the way, but they had limitations. The advent of embeddings has revolutionized the field, providing a more sophisticated and powerful way to represent and process human language.
 
 #### What are Embeddings?
