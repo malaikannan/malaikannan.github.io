@@ -1,8 +1,12 @@
-Computers are meant to crunch numbers; it goes back to the original design of these machines. Representing text as numbers is the holy grail of Natural Language Processing (NLP), and over the years, various techniques have been developed to achieve this. Early methods like BiGrams and TriGrams paved the way, but they had limitations. The advent of embeddings has revolutionized the field, providing a more sophisticated and powerful way to represent and process human language.
+Computers are meant to crunch numbers; it goes back to the original design of these machines. Representing text as numbers is the holy grail of Natural Language Processing (NLP), and over the years, various techniques have been developed to achieve this. Early methods like BiGrams and TriGrams paved the way, but they had limitations. The advent of embeddings has revolutionized the field, providing a more sophisticated and powerful way to represent and process human language. 
 
 #### What are Embeddings?
 
-Embeddings are numerical representations of text data where words or phrases from the vocabulary are mapped to vectors of real numbers. This mapping is crucial because it allows us to quantify and manipulate textual data in a way that machines can understand and process.
+Embeddings are numerical representations of text data where words or phrases from the vocabulary are mapped to vectors of real numbers. This mapping is crucial because it allows us to quantify and manipulate textual data in a way that machines can understand and process. Below is an example of 4 dimension vector representation of the word king 
+
+![King Vector](/assets/2024-07-31-Embeddings/king_vector.jpg)
+
+
 
 ##### Key Characteristics of Embeddings:
 
