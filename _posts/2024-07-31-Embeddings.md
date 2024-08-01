@@ -2,7 +2,21 @@ Computers are meant to crunch numbers; it goes back to the original design of th
 
 #### What are Embeddings?
 
-Embeddings are numerical representations of text data where words or phrases from the vocabulary are mapped to vectors of real numbers. This mapping is crucial because it allows us to quantify and manipulate textual data in a way that machines can understand and process. Below is an example of 4 dimension vector representation of the word king 
+Embeddings are numerical representations of text data where words or phrases from the vocabulary are mapped to vectors of real numbers. This mapping is crucial because it allows us to quantify and manipulate textual data in a way that machines can understand and process. 
+
+We understand what a word is, lets see what a vector is. A vector is a sequence of numbers that forms a group. For example
+
+- (3) is a one dimensional vector.
+- (2,8) is a two dimensional vector.
+- (12,6,7,4) is a four dimensional vector.
+
+A vector can be represented as by plotting on a graph. Lets take a 2D example
+
+![2D Plot](/assets/2017-01-22-Natural Language Processing using Word2Vec/2DPlot.png)
+
+We can only 3 dimensions, anything more than that you can just say it not visualize.
+
+Below is an example of 4 dimension vector representation of the word king 
 
 ![King Vector](/assets/2024-07-31-Embeddings/king_vector.jpg)
 
