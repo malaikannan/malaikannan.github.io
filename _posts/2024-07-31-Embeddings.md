@@ -20,7 +20,33 @@ Below is an example of 4 dimension vector representation of the word king
 
 ![King Vector](/assets/2024-07-31-Embeddings/king_vector.jpg)
 
+One of the seminal papers that have come out from Google is Word2vec. Lets see how Word2Vec works to get a conceptual understanding of how embedding works 
 
+## How Word2Vec works
+
+For a input text it looks at each word and the context of words around it. It trains on the text, and recognizes the order of each word, and the structure of the sentences. At the end of training each word is represented by a vector of N (mostly in 100 to 300 range) dimension.
+
+![Word2Vec](/assets/2017-01-22-Natural Language Processing using Word2Vec/word2vec.png)
+
+When we train word2vec algorithm in the example discussed above "SanFrancisco is a beautiful California city. LosAngeles is a lovely California metropolis"
+
+Lets assume that it outputs 2 dimension vectors for each words, since we can't visualize anything more than 3 dimension.
+
+- SanFrancisco (6,6)
+- beautiful (-13,-4)
+- California (10,8)
+- city (2,10)
+- LosAngeles (6.5,5)
+- lovely(-12,-7)
+- metropolis(2.5,8)
+
+Below is a 2D Plot of vectors
+
+![2DPlot](/assets/2017-01-22-Natural Language Processing using Word2Vec/word2vecplot.png)
+
+You can see in the image that Word2vec algorithm inferred from the input text. SanFrancisco and LosAngeles are grouped together. Beautiful and lovely are grouped together. City and metropolis are grouped together. Beauty about this is, Word2vec deduced this purely from data, without being explicitly taught english or geography.
+
+You will see more embedding approaches in the below sections 
 
 ##### Key Characteristics of Embeddings:
 
