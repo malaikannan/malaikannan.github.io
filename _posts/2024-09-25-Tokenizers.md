@@ -1,8 +1,9 @@
 ---
 title: An Introduction to Tokenizers in Natural Language Processing
 ---
+# Tokenizers
 
-# Introduction
+### _Co-authored by Tamil Arasan, Selvakumar Murugan and Malaikannan Sankarasubbu
 
 In Natural Language Processing (NLP), one of the foundational steps is transforming human language into a format that computational models can understand. This is where tokenizers come into play. Tokenizers are specialized tools that break down text into smaller units called tokens, and convert these tokens into numerical data that models can process.
 
@@ -603,4 +604,3 @@ handle Tamil text accurately.
     tokenizers associated with pre-trained models can save time and
     improve performance.
 -   Normalize Text Before Tokenization: Cleaning and standardizing text
-    (lowercasing, removing noise) can improve tokenization outcomes.
