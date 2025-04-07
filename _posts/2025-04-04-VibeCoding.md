@@ -87,7 +87,7 @@ I gave access to a couple of colleagues for early feedback. It was overwhelmingl
 I implemented all of those using Windsurf in just a few more days.
 
 In under a week, I had an MVP that **cut my Thursday analysis time from 6+ hours to under 2**.
-
+![Production Issues Dashboard_1](/assets/2025-04-04-VibeCoding/1_Production_issues_image.png)
 ![Production Issues Dashboard_2](/assets/2025-04-04-VibeCoding/2_ProductionIssues_analytics.png)
 ![Production Issues Dashboard_3](/assets/2025-04-04-VibeCoding/3_roductionIssues_product2.png)
 
