@@ -92,7 +92,7 @@ In under a week, I had an MVP that **cut my Thursday analysis time from 6+ hours
 ![Production Issues Dashboard_3](/assets/2025-04-04-VibeCoding/3_roductionIssues_product2.png)
 
 
-Then **Abhay Dhandekar**, another senior developer, offered to help. He built a **Lambda function** to call our Helpdesk API every hour to fetch the latest tickets and updates. He got it working in 4 hours—like a boss.
+Then **Abhay Dandekar**, another senior developer, offered to help. He built a **Lambda function** to call our Helpdesk API every hour to fetch the latest tickets and updates. He got it working in 4 hours—like a boss.
 
 ## Growing Usage
 
