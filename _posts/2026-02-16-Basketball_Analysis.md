@@ -57,10 +57,6 @@ My son does not manipulate space the way I used to.
 
 He occupies it.
 
-![Aadi Highlights](https://youtu.be/9lZkCooBN9c?si=2wUnNphj5PCxgimF)
-![Aadi Game Footage](https://youtu.be/WxVSQQnd7oU?si=7s04stJtW_-0_7XC)
-
-
 ---
 
 ## Aggression + Intelligence
@@ -107,7 +103,7 @@ That’s when I leaned on something I *do* understand well.
 
 **AI.**
 
-Not to make him robotic. Not to strip his identity. But to give structure to our conversations.
+Not to make him robotic. Not to strip his identity. But to give structure to our conversations. 
 
 I record all his games — every possession, every seal, every sprint, every missed rotation.
 
@@ -209,13 +205,18 @@ But:
 
 ---
 
+I uploaded the full game length video to gemini for analysis. You can see his highlight reel here. It was a low scoring game, his team won 38-34 Aadi scored 10 points and grabbed 8 rebounds.
+
+![Aadi Highlights](https://youtu.be/9lZkCooBN9c?si=2wUnNphj5PCxgimF)
+![Aadi Game Footage](https://youtu.be/WxVSQQnd7oU?si=7s04stJtW_-0_7XC)
+
 ## The Scouting Report
 
 What came back looked like something from a real program.
 
 ### 📝 Scouting Report: Aadhtiyan “Aadi” Malaikannan
 
-**Profile:** 6'2", heavy set | Class of 2030 (8th Grade)  
+**Profile:** 6'1", heavy set | Class of 2030 (8th Grade)  
 **Position:** Power Forward / Point-Forward  
 
 **Executive Summary:**  
@@ -332,10 +333,7 @@ But I ask better questions.
 
 And maybe that’s the real shift happening.And AI sitting quietly in the film room — helping both of us think a little deeper.
 
----
-
-
-
+Models are evolving at a rapid pace. This kind of analysis was not possible 6 months back or were not accurate enough to be useful
 
 ---
 
