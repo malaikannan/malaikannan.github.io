@@ -21,7 +21,7 @@ Naturally, I assumed my son would pick volleyball. His name is **Aadhityan** —
 
 But I should have known better. He is almost completely opposite to me (pretty sure he got that from my lovely wife 🙂).
 
-Aadi, being the independent young man he is, chose basketball. He started in 6th grade, playing on a half court in the community park. No plan. Just him, a ball, and a rim.
+Aadi, being the independent young man he is, chose basketball. He started in 6th grade, playing on a half court in the community park. No plan. Just him, a ball, and a rim. He made it to middle school 6th grade team, thats when we realized he can play, we still werent convinced. He is a confident young man who can talk with conviction to sell his idea, he convinced both me and my wife to let him play in a AAU team.
 
 Here’s the problem: I have never played organized basketball in my life.
 
