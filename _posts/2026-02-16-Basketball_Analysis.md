@@ -205,7 +205,7 @@ But:
 
 ---
 
-I uploaded the full game length video to gemini for analysis. You can see his highlight reel here. It was a low scoring game, his team won 38-34 Aadi scored 10 points and grabbed 8 rebounds.
+I uploaded the full game length video to gemini for analysis. You can see his highlight reel here. It was a low scoring game, his team won 38-34 Aadi scored 10 points and grabbed 8 rebounds. He is number 20 in Orange jersey team with black undershirt and black leg sleeves.
 
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9lZkCooBN9c" frameborder="0" allowfullscreen></iframe>
