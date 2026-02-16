@@ -4,8 +4,6 @@ title: From Setter to Sports Dad - Bullyball, AI, and Learning a New Game
 date: 2026-02-16
 ---
 
-# From Setter to Sports Dad: Bullyball, AI, and Learning a New Game
-
 ## The Sport I Fell in Love With
 
 I played volleyball in high school and college in India. That was *my* sport — I fell in love with it very young. I played as a **setter** and sometimes as a **right-side hitter**. If the team had another good setter and we were running a 6–2 (setter comes from the back row), I’d swing from the right side. Otherwise, it was a 5–1 — and that meant I got to control the tempo of the game.
