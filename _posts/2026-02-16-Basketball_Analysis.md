@@ -208,6 +208,7 @@ But:
 I uploaded the full game length video to gemini for analysis. You can see his highlight reel here. It was a low scoring game, his team won 38-34 Aadi scored 10 points and grabbed 8 rebounds.
 
 ![Aadi Highlights](https://youtu.be/9lZkCooBN9c?si=2wUnNphj5PCxgimF)
+
 ![Aadi Game Footage](https://youtu.be/WxVSQQnd7oU?si=7s04stJtW_-0_7XC)
 
 ## The Scouting Report
