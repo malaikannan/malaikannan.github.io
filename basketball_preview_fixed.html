@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Preview - Basketball Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            color: #24292e;
+        }
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+        /* YouTube embed styling */
+        .youtube-embed {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            margin: 20px 0;
+        }
+        .youtube-embed iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <article id="content" class="markdown-body"></article>
+
+    <script>
+        // Function to extract YouTube video ID from URL
+        function getYouTubeID(url) {
+            // Handle youtu.be format
+            if (url.includes('youtu.be')) {
+                const parts = url.split('/');
+                const lastPart = parts[parts.length - 1];
+                return lastPart.split('?')[0];
+            }
+            
+            // Handle youtube.com format
+            const regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+            const match = url.match(regExp);
+            return (match && match[7].length === 11) ? match[7] : null;
+        }
+
+        // Load the markdown content from the file
+        fetch('_posts/2026-02-16-Basketball_Analysis.md')
+            .then(response => response.text())
+            .then(text => {
+                // Remove front matter
+                const content = text.replace(/---\n[\s\S]*?---\n/, '');
+                
+                // Parse markdown to HTML
+                let html = marked.parse(content);
+                
+                // Create a temporary div to parse the HTML
+                const tempDiv = document.createElement('div');
+                tempDiv.innerHTML = html;
+                
+                // Find all image tags with YouTube links
+                const images = tempDiv.querySelectorAll('img');
+                images.forEach(img => {
+                    const src = img.getAttribute('src');
+                    if (src && (src.includes('youtu.be') || src.includes('youtube.com'))) {
+                        const videoId = getYouTubeID(src);
+                        if (videoId) {
+                            // Create YouTube embed
+                            const embed = document.createElement('div');
+                            embed.className = 'youtube-embed';
+                            embed.innerHTML = `<iframe src="https://www.youtube.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe>`;
+                            
+                            // Replace the image with the embed
+                            img.parentNode.replaceChild(embed, img);
+                        }
+                    }
+                });
+                
+                // Set the modified HTML
+                document.getElementById('content').innerHTML = tempDiv.innerHTML;
+            });
+    </script>
+</body>
+</html>
